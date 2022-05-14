@@ -1,0 +1,15 @@
+.yarn/*
+.yarn/cache
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+node_modules
+dist
+release
+.env
+coverage
+logs
+tests/mockData/databases
+devData
